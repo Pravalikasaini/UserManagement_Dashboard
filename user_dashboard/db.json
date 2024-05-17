@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "username": "jane_smith",
+      "email": "jane.smith@example.com",
+      "role": "user",
+      "name": "Jane"
+    },
+    {
+      "id": "3",
+      "username": "alice_johnson",
+      "email": "alice.johnson@example.com",
+      "role": "user",
+      "name": "Pravalika"
+    },
+    {
+      "id": "5",
+      "username": "charlie_davis",
+      "email": "charlie.davis@example.com",
+      "role": "user",
+      "name": "Charlie"
+    },
+    {
+      "id": "0b18",
+      "name": "Pravalika",
+      "email": "pravallikasuba@gmail.com"
+    },
+    {
+      "id": "4245",
+      "name": "Pravallika",
+      "email": "pravalika@rentzeme.com",
+      "role": "admin"
+    }
+  ]
+}
